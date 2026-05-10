@@ -14,7 +14,11 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "何文字レター",
-  description: "手紙用紙の写真を撮るだけでAIが文字数を自動判別",
+  description: "手紙の写真を撮るだけでAIが文字数を自動判別",
+  openGraph: {
+    title: "何文字レター",
+    description: "手紙の写真を撮るだけでAIが文字数を自動判別",
+  },
 };
 
 export default function RootLayout({
