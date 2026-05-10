@@ -14,13 +14,13 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "何文字レター",
-  description: "手紙の写真を撮るだけでAIが文字数を自動判別",
+  description: "手紙・便箋の写真を撮るだけでAIが文字数を自動判別。何文字書けるか一瞬でわかる。便箋・レター用紙に対応。",
   verification: {
     google: '8rdv6-oBxoLXhDcxQa41xRmsPNIYtLRMosa_A3xjWdY',
   },
   openGraph: {
     title: "何文字レター",
-    description: "手紙の写真を撮るだけでAIが文字数を自動判別",
+    description: "手紙・便箋の写真を撮るだけでAIが文字数を自動判別。何文字書けるか一瞬でわかる。",
   },
 };
 
